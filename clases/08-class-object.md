@@ -1,5 +1,8 @@
 # Clases y Objetos 
 
+~~~python
+# Clases y Objetos 
+
 class Cracker:
     #Constructor 
     def __init__(self, name, flavor, color) -> None:
@@ -50,6 +53,4 @@ soda1 = Soda('Coca Cola', 'Dulce', 'Negro')
 soda1.imprimer()
 
 print(soda1)
-
-
-
+~~~

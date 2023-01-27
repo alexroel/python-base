@@ -1,4 +1,6 @@
+# Funciones 
 
+~~~python
 # Definición de una función 
 def data_personal():
     #Definicion de Variables 
@@ -6,7 +8,7 @@ def data_personal():
     last_name = input('Ingrese su apellido: ')
     age = input('Ingrese su edad: ')
 
-    full_name = [ name, last_name, age ]
+    full_name = f'{name} {last_name}'
 
     print(f'Nombre Completo: {full_name}\nEdad: {age}')
 
@@ -18,3 +20,4 @@ def sum(a, b):
 data_personal()
 
 print(f'La suma: {sum(10, 30)}')
+~~~

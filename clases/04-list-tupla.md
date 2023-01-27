@@ -1,3 +1,6 @@
+# Listas y Tuplas 
+
+~~~python
 #Definición de Listas 
 colors = ['Rojo', 'Negro', 'Verde']
 
@@ -34,4 +37,4 @@ print(colores[0])
 
 #Longitud de elemntos
 print(len(colores))
-
+~~~

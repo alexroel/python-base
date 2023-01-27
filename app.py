@@ -1,4 +1,3 @@
-
 # Definición de una función 
 def data_personal():
     #Definicion de Variables 

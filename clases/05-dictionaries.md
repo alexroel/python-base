@@ -1,3 +1,6 @@
+# Diccionarios 
+
+~~~python
 #Definicion de Diccionario 
 data= {
     'uno':1,
@@ -28,3 +31,5 @@ print(data.values())
 
 # Obtener Claves 
 print(data.keys())
+
+~~~
